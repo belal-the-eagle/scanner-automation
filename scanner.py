@@ -40,7 +40,7 @@ while x ==True:
       print(f"2) whois scanner 🧠") 
       print(f"3) installing requirements ⚒️{C['end']}")
       print("***************************")
-      print(f"{C['green']}0)Exit tool 👋{C['end']}")
+      print(f"{C['green']}0) Exit tool 👋{C['end']}")
       choose=input(f"{C['red']}fosciety@root {C['end']}")
       if choose=="1":
          nmap()
