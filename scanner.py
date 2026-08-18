@@ -35,7 +35,7 @@ def checktool():
     subprocess.run(["pkg","install","whois"]) 
 x=True
 while x ==True:
-      print(f"{C['bold']}     Scanner Automation  📜{C['end']}")
+      print(f"{C['bold']}       Scanner Automation  📜{C['end']}")
       print(f"{C['yellow']}1) nmap scanner 🧠")
       print(f"2) whois scanner 🧠") 
       print(f"3) installing requirements ⚒️{C['end']}")
